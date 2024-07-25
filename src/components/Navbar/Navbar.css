@@ -5,8 +5,20 @@
     padding: 8px 4%;
 }
 .navbar .logo{
-    width: max(10%,80px);
+    width: 80px;
+    border-radius: 100%;
+    border: 2px solid black;
+    height: 80px;
 }
 .navbar .profile{
     width: 40px;
+}
+
+.admin{
+    margin-right: 1200px;
+    margin-top: 45px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: cadetblue;
 }
